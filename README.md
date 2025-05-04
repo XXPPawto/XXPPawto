@@ -36,7 +36,7 @@
 ### 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="mailto:youremail@example.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/abdulkarim2006/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/XPawto" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="abdulaaf120@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
