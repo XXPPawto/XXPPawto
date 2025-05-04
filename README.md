@@ -8,11 +8,9 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🔭 I’m currently working on: **flask Web**
 - 🌱 I’m currently learning: **Machine Learning**
 - 💬 Ask me about: **artificial intelligence**
-- 📫 How to reach me: **@a.bdlkrm**
+- 📫 How to reach me: **bakpaw.my.id**
 - ⚡ Fun fact: **Aku menyukai coklat**
 
 ---
