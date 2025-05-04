@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning: **Machine Learning**
+- 🌱 I’m currently learning: **Cyber Security**
 - 💬 Ask me about: **artificial intelligence**
 - 📫 How to reach me: **bakpaw.my.id**
 - ⚡ Fun fact: **Aku menyukai coklat**
